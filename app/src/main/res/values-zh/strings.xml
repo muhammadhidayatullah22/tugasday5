@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">任务日5</string>
+    <string name="muhammad_hidayatullah_quiz_1">穆罕默德·希达亚图拉 QUIZ1</string>
+    <string name="nama">姓名</string>
+    <string name="kb">商品代码</string>
+    <string name="jumlah">数量</string>
+    <string name="tipe_pelanggan">客户类型</string>
+    <string name="gold">黄金</string>
+    <string name="silver">银</string>
+    <string name="biasa">普通</string>
+    <string name="proses">处理</string>
+    <string name="nama_pelanggan">客户名称 </string>
+    <string name="tipe_member">会员类型 </string>
+    <string name="kode_barang">商品代码 </string>
+    <string name="nama_barang">商品名称 </string>
+    <string name="harga_barang">商品价格 </string>
+    <string name="total_harga">总价 </string>
+    <string name="diskon_harga">"折扣价格 "</string>
+    <string name="diskon_member">"会员折扣 "</string>
+    <string name="jumlah_bayar">"付款金额 "</string>
+    <string name="share">分享</string>
+</resources>

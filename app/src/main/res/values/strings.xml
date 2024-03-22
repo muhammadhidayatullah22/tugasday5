@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tugas day 5</string>
+    <string name="muhammad_hidayatullah_quiz_1">Muhammad Hidayatullah QUIZ1</string>
+    <string name="nama">Nama</string>
+    <string name="kb">Kode Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="biasa">Biasa</string>
+    <string name="proses">Proses</string>
+    <string name="nama_pelanggan">Nama Pelanggan </string>
+    <string name="tipe_member">Tipe Member </string>
+    <string name="kode_barang">Kode Barang </string>
+    <string name="nama_barang">Nama barang </string>
+    <string name="harga_barang">Harga Barang </string>
+    <string name="total_harga">Total Harga </string>
+    <string name="diskon_harga">"Diskon Harga "</string>
+    <string name="diskon_member">"Diskon Member "</string>
+    <string name="jumlah_bayar">"Jumlah Bayar "</string>
+    <string name="share">Share</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">課題5</string>
+    <string name="muhammad_hidayatullah_quiz_1">ムハンマド・ヒダヤトゥッラー QUIZ1</string>
+    <string name="nama">名前</string>
+    <string name="kb">商品コード</string>
+    <string name="jumlah">数量</string>
+    <string name="tipe_pelanggan">顧客の種類</string>
+    <string name="gold">ゴールド</string>
+    <string name="silver">シルバー</string>
+    <string name="biasa">普通</string>
+    <string name="proses">処理</string>
+    <string name="nama_pelanggan">顧客名 </string>
+    <string name="tipe_member">会員タイプ </string>
+    <string name="kode_barang">商品コード </string>
+    <string name="nama_barang">商品名 </string>
+    <string name="harga_barang">商品価格 </string>
+    <string name="total_harga">合計金額 </string>
+    <string name="diskon_harga">"割引価格 "</string>
+    <string name="diskon_member">"会員割引 "</string>
+    <string name="jumlah_bayar">"支払い金額 "</string>
+    <string name="share">共有</string>
+</resources>
